@@ -1,0 +1,62 @@
+[
+  {
+    "id_product": 1,
+    "category": "Комплектующие",
+    "product_name": "Клавиатура",
+    "price": 1600
+  },
+  {
+    "id_product": 2,
+    "category": "Комплектующие",
+    "product_name": "Джойстик",
+    "price": 3000
+  },
+  {
+    "id_product": 3,
+    "category": "Компьютеры",
+    "product_name": "Ноутбук",
+    "price": 45600
+  },
+  {
+    "id_product": 4,
+    "category": "Комплектующие",
+    "product_name": "Мышка",
+    "price": 1000
+  },
+  {
+    "id_product": 5,
+    "category": "Компьютеры",
+    "product_name": "Монитор",
+    "price": 5500
+  },
+  {
+    "id_product": 6,
+    "category": "Телефоны",
+    "product_name": "iPhone X",
+    "price": 35500
+  },
+  {
+    "id_product": 7,
+    "category": "Телефоны",
+    "product_name": "Xiaomi mi9",
+    "price": 27500
+  },
+  {
+    "id_product": 8,
+    "category": "Телефоны",
+    "product_name": "Blackberry",
+    "price": 12500
+  },
+  {
+    "id_product": 9,
+    "category": "Комплектующие",
+    "product_name": "Кабель 1м ",
+    "price": 500
+  },
+  {
+    "id_product": 10,
+    "category": "Компьютеры",
+    "product_name": "Игровой компьютер",
+    "price": 75800
+  }
+]
