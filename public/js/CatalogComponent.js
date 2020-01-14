@@ -13,7 +13,7 @@ Vue.component('catalog', {
     filterProduct(string){
       this.isFilterOn = true;
       const regexp = new RegExp(string, 'i');
-      this.filteredProducts = this.products.filter(good => regexp.test(good.product_name));
+      this.filteredProducts = this.products.filter(good => regexp.test(good.product_name + good.category));
     },
 
     isFounded(product) {
